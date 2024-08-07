@@ -25,12 +25,4 @@ Each project is contained in its own Jupyter notebook, providing detailed explan
 
 ## Disclaimer
 
-Please ensure you're following all applicable laws and website terms of service when scraping data. This repository is for educational purposes only.
-
-## License
-
-[MIT License](LICENSE)
-
----
-
-Happy Scraping! 🕷️🌐
+I am a novice so the code might not be perfect, so feel free to give suggestions!
